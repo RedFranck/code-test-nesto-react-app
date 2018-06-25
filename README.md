@@ -1,4 +1,4 @@
-##code test in react
+## code test in react
 
 
 ### Requirements
@@ -13,7 +13,7 @@ The REST API documentation can be found at [https://jsonplaceholder.typicode.com
 ?? The program will provide an interface for the user to select his preferences in ranking order. ??
 
 
-###Basic Requirements
+### Basic Requirements
 - Written in React.
 - Uses REST API for data source.
 - Is a single page application.
@@ -26,7 +26,7 @@ Provide us the URL for your git repository.
 There is no time limit to complete your assignment. Take as long as you want, but bear in mind that your final solution will be evaluated considering the amount of time it took for you to deliver it.
 
 
-###Evaluation criteria
+### Evaluation criteria
 
 - Correctness and adherence to requirements
 - Good performance
