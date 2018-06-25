@@ -1,0 +1,10 @@
+[
+    {
+        "username": "admin",
+        "passwordHash": "5f4dcc3b5aa765d61d8327deb882cf99"
+    },
+    {
+        "username": "user",
+        "passwordHash": "a8f5f167f44f4964e6c998dee827110c"
+    }
+]
